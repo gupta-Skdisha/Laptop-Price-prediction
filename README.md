@@ -2,7 +2,7 @@
 
 Welcome to the **Laptop Price Prediction** repository! This project utilizes machine learning techniques to predict laptop prices based on various features such as brand, specifications, and other attributes.
 
-![https://laptop-price-prediction-2bab.onrender.com/](https://github.com/user-attachments/assets/872f715c-5cfe-4494-8c4f-f237a1ce1ed2)
+
 
 ## 📋 Contents
 
@@ -200,16 +200,6 @@ This repository was created to showcase the use of machine learning for predicti
 ## 📝 License
 
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
-
----
-
-## 📬 Contact
-
-- **Email:** [iconicemon01@gmail.com](mailto:iconicemon01@gmail.com)
-- **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)
-- **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)
-- **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan)
-- **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
 
 ---
 
